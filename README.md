@@ -20,21 +20,6 @@ Insatisfação com a remuneração:
 Salários inadequados podem afastar talentos.
 Cultura e clima organizacional não alinhados:
 Um ambiente negativo impacta a permanência dos funcionários.
-Desenvolvimento:
-
-Para abordar esses desafios, criaremos visualizações no Tableau para identificar as razões de saída dos funcionários e seus impactos. Vamos considerar as seguintes etapas:
-
-Importação e Preparação dos Dados:
-Carregaremos os dados no Tableau.
-Realizaremos limpeza e transformação, se necessário.
-Visualizações Relevantes:
-Utilizaremos gráficos de barras, heatmap e linhas temporais.
-Destacaremos as razões com maior frequência e impacto.
-Narrativa Orientada por Dados:
-Começaremos com uma introdução sobre o problema do atrito de funcionários.
-Apresentaremos os dados usando visualizações claras.
-Contaremos a história: “Nosso desafio é reter talentos. Observamos que falta de treinamento e carga excessiva de trabalho são fatores críticos. Recomendamos investir em capacitação e equilibrar a carga de trabalho.”
-Concluiremos com ações específicas: “Vamos implementar programas de treinamento e revisar a distribuição de tarefas.”
 
 
 
