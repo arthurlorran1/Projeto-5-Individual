@@ -6,31 +6,22 @@ O atrito de funcionários é um desafio enfrentado por muitas organizações. Qu
 
 ## Análise:
 ![Areas de impacto mais prejudicadas](./Capacidade%20de%20Impacto%20x%20Pesquisa.png)
+Comparado a capacidade de impacto x Pesquisa de Saída é que  
 
-![RH_X Pesquisa](./Variação%20entre%20RH%20e%20pesquisa(3).png)
+![RH_X Pesquisa]
+O evidenciado pela pesquisa foi que cresceram a incidencia das motivações "Falta de Crescimento" e "Tipo de Trabalho" em relação a pesquisa feita no RH  
 
-## Insights:
+### Insights Relacionados aos Fatores de Saída devido à Falta de Crescimento e Tipo de Trabalho:
+#### A falta de oportunidades de crescimento profissional é um fator crítico que levou os funcionários a deixarem a empresa.
+Funcionários competentes desejam desenvolver suas habilidades e avançar em suas carreiras. Quando não veem perspectivas de crescimento, podem buscar oportunidades em outro lugar12.
 
-### Subaproveitamento das competências:
-Funcionários competentes podem se sentir frustrados quando não têm oportunidades para aplicar suas habilidades.
+#### O tipo de trabalho desempenha um papel importante na satisfação dos funcionários.
+Se as tarefas são monótonas, desafiadoras demais ou não alinhadas com as habilidades e interesses do funcionário, isso pode levar à insatisfação e, eventualmente, à saída da empresa.
+Funcionários buscam papéis que se alinhem com seus valores, paixões e habilidades.
 
-### Liderança ineficiente:
-Uma má liderança pode afetar o engajamento e a satisfação dos funcionários.
 
-### Falta de treinamento:
-Investir em capacitação é essencial para reter talentos.
 
-### Ausência de oportunidades de crescimento profissional:
-Funcionários buscam progresso na carreira.
 
-### Carga excessiva de trabalho:
-Sobrecarga pode levar à insatisfação.
-
-### Insatisfação com a remuneração:
-Salários inadequados podem afastar talentos.
-
-### Cultura e clima organizacional não alinhados:
-Um ambiente negativo impacta a permanência dos funcionários.
 
 
 
