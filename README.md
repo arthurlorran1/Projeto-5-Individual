@@ -5,7 +5,9 @@
 O atrito de funcionários é um desafio enfrentado por muitas organizações. Quando talentos decidem deixar a empresa, é crucial entender as razões por trás dessa decisão. Neste projeto, exploraremos os dados relacionados ao atrito de funcionários na organização de marketing e apresentaremos insights relevantes.
 
 ## Análise:
-![Areas de impacto mais prejudicadas](./)
+![Areas de impacto mais prejudicadas](./Capacidade%20de%20Impacto%20x%20Pesquisa.png)
+
+![RH_X Pesquisa](./Variação%20entre%20RH%20e%20pesquisa(3).png)
 
 ## Insights:
 
