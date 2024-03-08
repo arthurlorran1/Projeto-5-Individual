@@ -6,32 +6,25 @@ O atrito de funcionários é um desafio enfrentado por muitas organizações. Qu
 
 ## Insights:
 
-Subaproveitamento das competências:
-
+# Subaproveitamento das competências:
 Funcionários competentes podem se sentir frustrados quando não têm oportunidades para aplicar suas habilidades.
 
-Liderança ineficiente:
-
+# Liderança ineficiente:
 Uma má liderança pode afetar o engajamento e a satisfação dos funcionários.
 
-Falta de treinamento:
-
+# Falta de treinamento:
 Investir em capacitação é essencial para reter talentos.
 
-Ausência de oportunidades de crescimento profissional:
-
+# Ausência de oportunidades de crescimento profissional:
 Funcionários buscam progresso na carreira.
 
-Carga excessiva de trabalho:
-
+# Carga excessiva de trabalho:
 Sobrecarga pode levar à insatisfação.
 
-Insatisfação com a remuneração:
-
+# Insatisfação com a remuneração:
 Salários inadequados podem afastar talentos.
 
-Cultura e clima organizacional não alinhados:
-
+# Cultura e clima organizacional não alinhados:
 Um ambiente negativo impacta a permanência dos funcionários.
 
 
